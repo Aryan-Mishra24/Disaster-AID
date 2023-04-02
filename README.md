@@ -20,3 +20,22 @@ These instructions will help you set up the project on your local machine for de
 ### Installation
 
 1. Clone the repository
+2. https://github.com/Aryan-Mishra24/Disaster-AID.git
+3. 
+2. Install dependencies
+cd Disaster-AID
+npm install
+
+3. Start the development server
+npm start
+
+The application should now be running on `http://localhost:3000`.
+
+## Contributing
+
+We welcome contributions from the community. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
