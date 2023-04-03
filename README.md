@@ -7,6 +7,8 @@ Disaster AID is an open-source project aimed at leveraging the power of AI and r
 - Multi-source data integration
 - Communication tools for emergency responders
 - Platform for NGOs and volunteers to collaborate
+![alt text](relative/path/to/06b55f3b-c71a-47e9-bf86-d0436a29a9d3.png
+.png)
 
 ## Getting Started
 
