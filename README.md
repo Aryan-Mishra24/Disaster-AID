@@ -39,4 +39,4 @@ We welcome contributions from the community. Please read the [CONTRIBUTING.md](C
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details123
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details12
